@@ -1,2 +1,2 @@
 # simple-website-about-programming-lanaguages
-A simple website I wrote in my first year in university using HTML, CSS and a little bit of Javascript.
+A simple website about programming languages and paradigms I wrote in my first year of university using HTML, CSS and a little bit of Javascript. The content is in romanian.
